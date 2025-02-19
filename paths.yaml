@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/pbakliwal/eds-crosswalk-proj/:/
+ - /content/pbakliwal/eds-crosswalk-proj/metadata.json:/metadata.json
+ - /content/pbakliwal/eds-crosswalk-proj/redirects.json:/redirects.json
